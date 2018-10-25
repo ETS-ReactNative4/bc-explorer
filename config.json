@@ -18,7 +18,7 @@
       }
     }
   },
-  "channel": "foo",
+  "channel": "composerchannel",
   "orderers": [
     {
       "mspid": "OrdererMSP",

@@ -71,7 +71,7 @@ function existsImage(){
 function config(){
 	# BEGIN: GLOBAL VARIABLES OF THE SCRIPT
 	defaultFabricName="net1"
-	if [ -z "$1" ]; then
+	if [ -n "$1" ]; then
 		echo "No custom Hyperledger Network configuration supplied. Using default network name: $defaultFabricName"
 		fabricBlockchainNetworkName=$defaultFabricName
 	else
@@ -225,8 +225,9 @@ function dbOnly(){
 
 }
 function deploy(){
-
-	if [ -z "$2" ]; then
+	echo "Inside deploy $2"
+	if [ -n "$2" ]; then
+		echo "deploying network test"
 		deploy_prepare_network
 	fi
 
@@ -358,7 +359,7 @@ function main(){
         deploy "$@"
     fi
 }
-
+echo "$@"
 #Pass arguments to function exactly as-is
 main "$@"
 #binariesInstall
