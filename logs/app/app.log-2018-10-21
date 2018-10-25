@@ -1,0 +1,508 @@
+[2018-10-21 20:05:12.247] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:05:12.268] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:05:12.465] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:05:12.465] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:05:12.573] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:05:12.573] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:05:12.606] [DEBUG] Query - ===========================================
+[2018-10-21 20:05:12.606] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:05:12.608] [DEBUG] Query - ===========================================
+[2018-10-21 20:05:12.616] [DEBUG] Query - ===========================================
+[2018-10-21 20:05:12.616] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:05:12.616] [DEBUG] Query - ===========================================
+[2018-10-21 20:05:34.133] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:06:34.496] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:07:34.496] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:08:34.525] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:09:34.527] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:10:34.509] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:11:34.508] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:11:44.428] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:11:44.444] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:11:44.573] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:11:44.573] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:11:44.642] [DEBUG] Query - ===========================================
+[2018-10-21 20:11:44.642] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:11:44.644] [DEBUG] Query - ===========================================
+[2018-10-21 20:11:44.659] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:11:44.659] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:11:44.666] [DEBUG] Query - ===========================================
+[2018-10-21 20:11:44.666] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:11:44.667] [DEBUG] Query - ===========================================
+[2018-10-21 20:11:55.303] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:12:01.468] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:12:01.480] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:12:01.605] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:12:01.605] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:12:01.666] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:12:01.666] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:12:01.674] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:01.675] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:12:01.677] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:01.682] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:01.682] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:12:01.682] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:46.025] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:12:46.038] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:12:46.158] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:12:46.158] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:12:46.227] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:46.227] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:12:46.229] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:46.234] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:12:46.234] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:12:46.240] [DEBUG] Query - ===========================================
+[2018-10-21 20:12:46.240] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:12:46.240] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:33.504] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:13:33.516] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:13:33.639] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:13:33.639] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:13:33.709] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:13:33.709] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:13:33.726] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:33.726] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:13:33.728] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:33.737] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:33.737] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:13:33.737] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:44.128] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:13:44.141] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:13:44.269] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:13:44.269] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:13:44.341] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:13:44.341] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 20:13:44.361] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:44.362] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:13:44.364] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:44.379] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:44.380] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:13:44.380] [DEBUG] Query - ===========================================
+[2018-10-21 20:13:52.870] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:14:51.771] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:14:53.118] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 20:15:22.661] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:15:22.673] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 20:15:22.799] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:15:22.799] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 20:15:22.870] [DEBUG] Query - ===========================================
+[2018-10-21 20:15:22.870] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:15:22.872] [DEBUG] Query - ===========================================
+[2018-10-21 20:15:22.894] [DEBUG] Query - ===========================================
+[2018-10-21 20:15:22.894] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 20:15:22.894] [DEBUG] Query - ===========================================
+[2018-10-21 20:15:22.910] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 20:15:22.910] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:36:12.333] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:36:12.349] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:36:12.478] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:36:12.478] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:36:12.551] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:12.551] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:36:12.553] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:12.570] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:12.570] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:36:12.571] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:12.611] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 21:36:12.612] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:36:57.627] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:36:57.639] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:36:57.764] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:36:57.764] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:36:57.824] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 21:36:57.824] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:36:57.832] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:57.832] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:36:57.834] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:57.841] [DEBUG] Query - ===========================================
+[2018-10-21 21:36:57.841] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:36:57.841] [DEBUG] Query - ===========================================
+[2018-10-21 21:37:16.475] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:37:53.478] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:38:16.745] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:38:53.363] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:39:16.823] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:39:37.098] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:39:37.110] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:39:37.240] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:39:37.240] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:39:37.296] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 21:39:37.296] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:39:37.315] [DEBUG] Query - ===========================================
+[2018-10-21 21:39:37.315] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:39:37.317] [DEBUG] Query - ===========================================
+[2018-10-21 21:39:37.351] [DEBUG] Query - ===========================================
+[2018-10-21 21:39:37.351] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:39:37.351] [DEBUG] Query - ===========================================
+[2018-10-21 21:46:57.126] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:46:57.139] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:46:57.259] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:46:57.259] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:46:57.346] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 21:46:57.346] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:46:57.358] [DEBUG] Query - ===========================================
+[2018-10-21 21:46:57.358] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:46:57.360] [DEBUG] Query - ===========================================
+[2018-10-21 21:46:57.381] [DEBUG] Query - ===========================================
+[2018-10-21 21:46:57.381] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:46:57.381] [DEBUG] Query - ===========================================
+[2018-10-21 21:47:20.378] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:47:20.391] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 21:47:20.511] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:47:20.511] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 21:47:20.578] [DEBUG] Query - ===========================================
+[2018-10-21 21:47:20.578] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:47:20.580] [DEBUG] Query - ===========================================
+[2018-10-21 21:47:20.584] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 21:47:20.584] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 21:47:20.619] [DEBUG] Query - ===========================================
+[2018-10-21 21:47:20.619] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 21:47:20.619] [DEBUG] Query - ===========================================
+[2018-10-21 21:47:53.440] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:48:16.773] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:48:53.389] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:49:16.813] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:49:53.426] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:50:16.806] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:50:53.395] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:51:16.818] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:51:53.403] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:52:16.818] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:52:53.435] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:53:16.823] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:53:53.452] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:54:16.822] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:54:53.464] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:55:16.838] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:55:53.458] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:56:16.837] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:56:53.454] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:57:16.848] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:57:53.460] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:58:16.861] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:58:53.476] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:59:16.868] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 21:59:53.512] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:00:16.870] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:00:53.466] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:01:16.865] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:01:53.472] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:02:16.861] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:02:53.499] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:14:31.210] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:14:31.225] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:14:31.351] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:14:31.351] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:14:31.428] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:31.428] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:14:31.430] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:31.434] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:31.434] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:14:31.434] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:31.453] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 22:14:31.453] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 22:14:47.984] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:14:47.996] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:14:48.124] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:14:48.124] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:14:48.168] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 22:14:48.169] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 22:14:48.216] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:48.216] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:14:48.218] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:48.230] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:48.230] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 3e 06 d0 53 ee ee 88 01 26 d6 2c c6 b0 0f 81 10 81 0d 00 36 2c f1 a7 bd ac da b4 3c 27 62 3a e1 1a 20 00 6d ba 86 a8 c1 23 6a ee b4 25 84 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:14:48.230] [DEBUG] Query - ===========================================
+[2018-10-21 22:14:53.546] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:15:16.870] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:15:28.898] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:15:33.578] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:15:36.912] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:15:53.494] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:16:37.185] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:16:53.538] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:17:37.171] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:17:53.503] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:18:37.170] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:18:53.508] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:19:37.182] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:19:53.522] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:20:37.208] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:20:53.514] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:21:37.186] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:21:53.539] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:22:37.186] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:22:53.527] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:23:37.198] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:23:53.526] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:24:37.187] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:24:53.542] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:25:37.199] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:25:53.541] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:26:24.084] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:26:27.964] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:26:53.549] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:27:28.224] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:27:53.551] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:28:28.227] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:28:53.560] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:29:28.249] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:29:53.561] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:30:28.252] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:30:53.571] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:31:28.231] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:31:53.571] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:32:28.246] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:32:53.581] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:33:28.253] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:33:53.616] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:34:28.255] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:34:53.629] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:35:28.268] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:35:53.622] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:36:28.271] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:36:53.626] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:37:28.300] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:37:53.612] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:40:05.316] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:40:30.637] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:41:35.755] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:41:35.769] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-21 22:41:35.890] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:41:35.890] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-21 22:41:35.968] [DEBUG] Query - ===========================================
+[2018-10-21 22:41:35.968] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 d0 c3 75 bf f3 aa f6 20 a8 57 a1 36 f8 6c 24 d7 8a f0 3f 7a b6 12 47 9d 37 86 63 50 52 94 23 6d 1a 20 fa e8 d9 1c bb 27 d7 68 ba f9 03 b0 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:41:35.970] [DEBUG] Query - ===========================================
+[2018-10-21 22:41:35.988] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-21 22:41:35.988] [DEBUG] Query - name: defaultcc, version: v1, path: chaincode
+[2018-10-21 22:41:36.015] [DEBUG] Query - ===========================================
+[2018-10-21 22:41:36.015] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 d0 c3 75 bf f3 aa f6 20 a8 57 a1 36 f8 6c 24 d7 8a f0 3f 7a b6 12 47 9d 37 86 63 50 52 94 23 6d 1a 20 fa e8 d9 1c bb 27 d7 68 ba f9 03 b0 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-21 22:41:36.015] [DEBUG] Query - ===========================================
+[2018-10-21 22:42:05.397] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:42:31.030] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:43:05.294] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:43:31.034] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:44:05.369] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:44:31.037] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:45:05.336] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:45:31.040] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:46:05.301] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:46:31.145] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:47:05.314] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:47:31.044] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:48:05.334] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:48:31.085] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:49:05.334] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:49:31.077] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:50:05.351] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:50:31.084] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:51:05.331] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:51:31.090] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:52:05.321] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:52:31.096] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:53:05.316] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:53:31.100] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:54:05.321] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:54:31.073] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:55:05.355] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:55:31.112] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:56:05.333] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:56:31.116] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:57:05.359] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:57:31.134] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:58:05.360] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:58:31.125] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:59:05.368] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 22:59:31.135] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:00:05.353] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:00:31.144] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:01:05.376] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:01:31.163] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:02:05.377] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:03:49.432] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:04:23.665] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:04:49.404] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:05:23.639] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:05:49.445] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:06:23.690] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-21 23:06:49.447] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]

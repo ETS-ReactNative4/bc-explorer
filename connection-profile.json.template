@@ -1,0 +1,38 @@
+{
+  "network-config": {
+    "org1": {
+      "name": "Org1",
+      "mspid": "Org1MSP",
+      "peer1": {
+        "requests": "grpc://127.0.0.1:7051",
+        "events": "grpc://127.0.0.1:7053",
+        "server-hostname": "peer0.org1.example.com",
+        "tls_cacerts":
+        "%CRYPTO_CONFIG%/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
+      },
+      "admin": {
+        "key":
+        "%CRYPTO_CONFIG%/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
+        "cert":
+        "%CRYPTO_CONFIG%/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
+      }
+    }
+  },
+  "channel": "foo",
+  "orderers": [
+    {
+      "mspid": "OrdererMSP",
+      "server-hostname": "orderer.example.com",
+      "requests": "grpc://127.0.0.1:7050",
+      "tls_cacerts":
+      "%CRYPTO_CONFIG%/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
+    }
+  ],
+  "keyValueStore": "/tmp/bc-explorer/fabric-client-kvs",
+  "configtxgenToolPath": "%HLFBIN1_1%",
+  "SYNC_START_DATE_FORMAT": "YYYY/MM/DD",
+  "syncStartDate": "2018/10/21",
+  "eventWaitTime": "30000",
+  "license": "Apache-2.0",
+  "version": "1.1"
+}

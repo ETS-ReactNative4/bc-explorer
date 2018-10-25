@@ -1,0 +1,17 @@
+version: '2'
+
+#volumes pertain to ec2 instance devices
+
+services:
+  postgresql:
+    image: postgres:10.4
+    container_name: postgresql
+    restart: always
+    environment:
+      - DATABASE_USERNAME=hppoc
+      - DATABASE_DATABASE=fabricexplorer
+      - DATABASE_PASSWORD=password
+    ports:
+      - 5432:5432
+
+
