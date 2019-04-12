@@ -17,4 +17,3 @@ node main.js >>logs/console/console.log-"$(date +%Y-%m-%d)" 2>&1 &
 find ./logs/app -mtime +7 -type f -delete & find ./logs/db -mtime +7 -type f -delete & find ./logs/console -mtime +7 -type f -delete
 
 
-

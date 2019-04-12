@@ -179,7 +179,7 @@ function deploy_load_database(){
 function deploy_build_explorer(){
 	echo "Building Hyperledger Fabric explorer image from current local version..."
 	docker build --tag $fabric_explorer_tag .
-	echo "Hyperledger Fabric network configuration file is located at $network_config_file"
+	echo "Hyperledger Fabric network configuration file isd at $network_config_file"
 	echo "Hyperledger Fabric network crypto material at $network_crypto_base_path"
 }
 

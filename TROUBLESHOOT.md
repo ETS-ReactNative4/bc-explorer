@@ -272,3 +272,35 @@ Related Information:
 
 ##### Related Information:
 
+
+
+
+##### Error:
+
+    + node main.js
+    /Users/user/Projects/any/blockchain-explorer/node_modules/grpc/src/grpc_extension.js:55
+        throw error;
+        ^
+    
+    Error: Failed to load gRPC binary module because it was not installed for the current system
+    Expected directory: node-v57-darwin-x64-unknown
+    Found: [node-v59-darwin-x64-unknown]
+    This problem can often be fixed by running "npm rebuild" on the current system
+    Original error: Cannot find module '/Users/user/Projects/any/blockchain-explorer/node_modules/grpc/src/node/extension_binary/node-v57-darwin-x64-unknown/grpc_node.node'
+        at Object.<anonymous> (/Users/user/Projects/any/blockchain-explorer/node_modules/grpc/src/grpc_extension.js:53:17)
+        at Module._compile (module.js:635:30)
+        at Object.Module._extensions..js (module.js:646:10)
+        at Module.load (module.js:554:32)
+        at tryModuleLoad (module.js:497:12)
+        at Function.Module._load (module.js:489:3)
+        at Module.require (module.js:579:17)
+        at require (internal/module.js:11:18)
+        at Object.<anonymous> (/Users/user/Projects/any/blockchain-explorer/node_modules/grpc/src/client.js:37:12)
+        at Module._compile (module.js:635:30)
+
+
+##### Possible solution:
+
+Your node version may be off causing npm install to had installed the wrong versino of grpc.
+
+change your node version to the correct version 8.11.x and run npm rebuild

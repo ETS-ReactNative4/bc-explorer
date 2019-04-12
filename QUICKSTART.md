@@ -6,11 +6,17 @@
 
 -docker
 
--xcode
+-xcode ( if using macos )
+
+Deploy fabric network
 
 # Steps to get started
 
 1. Start postgres server containerized
+
+    arg1 = existing fabric network id
+    
+    Example
 
     ```bash
     ./deploy_explorer.sh --dbonly
@@ -34,6 +40,14 @@
 
 4.  Run bc-explorer, ensure env CRYPTO_CONFIG and HLBIN1_1 are defined(reference networkup).
 
+    CRYPTO_CONFIG=`<path to crypto-config containing ordererOrganizations and peerOrganizations>`
+    
+    Example:
+    
+    ```bash
+    CRYPTO_CONFIG=/Users/any/project/crypto-config
+    ```
+
     ```bash
     ./run.sh
     ```
@@ -41,3 +55,7 @@
     locate server at localhost:8080
     
     to shutdown server, ctrl+c
+
+
+5. to just deploy all containers ./deploy_explorer.sh net1 <name of current fab network>
+./deploy_explorer --down to bring down
