@@ -4,14 +4,14 @@
       "name": "Org1",
       "mspid": "Org1MSP",
       "peer1": {
-        "requests": "grpc://127.0.0.1:7051",
-        "events": "grpc://127.0.0.1:7053",
+        "requests": "grpc://peer0.org1.example.com:7051",
+        "events": "grpc://peer0.org1.example.com:7053",
         "server-hostname": "peer0.org1.example.com",
-        "tls_cacerts": "/Users/huytran/Projects/duke/fabric-network/networkup/docker/crypto/v1.1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
+        "tls_cacerts": "/tmp/crypto/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
       },
       "admin": {
-        "key": "/Users/huytran/Projects/duke/fabric-network/networkup/docker/crypto/v1.1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
-        "cert": "/Users/huytran/Projects/duke/fabric-network/networkup/docker/crypto/v1.1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
+        "key": "/tmp/crypto/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
+        "cert": "/tmp/crypto/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
       }
     }
   },
@@ -20,12 +20,12 @@
     {
       "mspid": "OrdererMSP",
       "server-hostname": "orderer.example.com",
-      "requests": "grpc://127.0.0.1:7050",
-      "tls_cacerts": "/Users/huytran/Projects/duke/fabric-network/networkup/docker/crypto/v1.1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
+      "requests": "grpc://orderer.example.com:7050",
+      "tls_cacerts": "/tmp/crypto/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
     }
   ],
   "keyValueStore": "/tmp/bc-explorer/fabric-client-kvs",
-  "configtxgenToolPath": "",
+  "configtxgenToolPath": "/opt/explorer/bin",
   "SYNC_START_DATE_FORMAT": "YYYY/MM/DD",
   "syncStartDate": "2018/10/21",
   "eventWaitTime": "30000",
